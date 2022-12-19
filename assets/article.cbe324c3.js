@@ -1,1 +1,0 @@
-import{j as o}from"./index.6e6e1e56.js";const n=async e=>await o("https://api.lc.familyeducation.org.cn/v1/article/info/get",e),r=async e=>await o("https://api.lc.familyeducation.org.cn/v1/article/content/list",e);export{r as a,n as g};
