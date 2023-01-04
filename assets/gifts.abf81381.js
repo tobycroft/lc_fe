@@ -1,1 +1,0 @@
-import{j as n}from"./index.30d2042b.js";const o=async e=>await n("https://api.lc.familyeducation.org.cn/v1/gift/record/list",e),s=async e=>await n("https://api.lc.familyeducation.org.cn/v1/gift/info/list",e),i=async e=>await n("https://api.lc.familyeducation.org.cn/v1/quiz/info/get",e);export{o as a,i as b,s as g};
